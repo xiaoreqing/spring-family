@@ -1,5 +1,4 @@
 待完善:
-    41. Testing
     48. Monitoring and management over HTTP
     49. Monitoring and management over JMX
     50. Monitoring and management using a remote shell(deprecated)
